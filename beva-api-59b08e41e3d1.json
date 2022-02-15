@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "beva-api",
+  "private_key_id": "5c7114fea9c963d7e26e4674cc87e205e86c5235",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/HJX8W9xiHcR5\nQHKXWst3o92OlNtJJRZZmcN4RbMjvTG1pWc6TxwYJSkq8qHRXD3/O6zpPWtc41D8\nVH5HmJXnErheLzPUWlBOMJ3r0SHCpRCq57Ud6hzeLPa5dM2yWFZ3pDHJMs7AUkoL\neH1Mdf1SuXhf9VvdXRw4BETkNST8t3OZv/yxdLo2Xeh3fAG44r/Qr+rZpDVi/LJ6\n1JYEOMeF1r/3YyyfBJZi4CHtefZyYvEUhr/d7E6zCK48lXH6MXugeb5rcZHJWsCL\nH3HXNkqRPZA/2yFJHHt+8hOEGtkUDkdgGGAu8vGbgxMzV6FKKzremyyF3hnrnDpg\n0SwaNmj9AgMBAAECggEAAZV2l8CD687NLme8zSlDOOvODB6Y+lBK2CdsGqeZACp2\npus1CNUXu1/UIlHm9QcI7UcrFOFvdO7P58KO8s465c8MxQ5jeqh5ENm2r49Tjv7E\nmhEblnY9tmUbnOg/KEckiBZcBgvDVSps+kgUxRclkuVo4cmYhlXg56+b0OMipM9n\nSlfmSfJZC3n/1cDMQgp92N9CPsXoSRQzbeVTbFYl86s8OAu9ejwcAsn7lOeFpEA9\n9Tx12WVSUNrO2+qbIxJo7FPZIXuhC19wJqxMn0mZsinYW8PONv1ZOE5BEBwx0gAF\nu8kNNp4j44fabl6VMbgpejjYu60DJNVWWp19HDb5YQKBgQDqcLmumbM0aSWHIxuP\nUWjVn1hT5Sfb/qIMH6md9M+Htssy6zOoEGWGEaUCe9op17ZKeAqF3hNNhSvooz+1\nyx3wKX+9IpCDd+xSvK569Fe9D/Ob8BHBXgTp2FbWFPHsf6ry1XMMHn4l/ZJ37nEd\n+WQkKtWFBHeYFgeZmHRuC7gSoQKBgQDQr81a9O4861NVx96dgKP0oFgE0DMbj+Fh\n0rN3X/ZorbBIZsQ9LMPymwzV/r1urhSFVxFCRrqsiz77zSVR0Gu51Of089aA5AZK\nxUKzLsEGCtIRZ2uJTxpZvPRiU+XApAQkOpFgNoUhw7CMmuzsrGbyzfYyWu+8wiWb\nIs07kkHU3QKBgG7bqxIDIBhyeAp08X1N07LgTJYvUC/ZMqtk9YH514CnUWLckWqx\nhjBle4+3HSyYEl0YcnFm193aUS8Ksv+18ow0M3EuPQPN23QsQJ1nmW2Pc3STivHT\nEaO6ZyWIdfWNUTrO8D4U1TYFuBL6L4cq/M2Va64gtKS4FhPtYXEAHaTBAoGAQFGe\n4mTRNLd3BN5IT5UBc3kkB7+/sMQEvCi7pZRPFu5JgdcirpQohJKjPyV3bzB6JKq0\nKBAyotF8BRGyaefp++mR4F5zA2DES7FGoIFNfrZBDpooe7aEsZnaXJ/tFRW4LQ5c\nFiJXoBN3S67ITR3J0RYHxndeonfYLVtpk+29GoUCgYEAmNsoVXlS/gFuEGApJ2De\nJvDIwO7eWLaXUUfVdTmhPAAGpcXPhRuH12sNoedGHlkzDrrShhIYQU5/fXYZu0u8\nkG2A/NQpXTtpw1o7xsvtDiSslsCSuARaXoIfNuAcPGdXcDCbCS/kVasrqbmll8PH\nrV6RdIjW9C9mqOdwtZ3Dtqw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "beva-sa@beva-api.iam.gserviceaccount.com",
+  "client_id": "116124476408567942099",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/beva-sa%40beva-api.iam.gserviceaccount.com"
+}
